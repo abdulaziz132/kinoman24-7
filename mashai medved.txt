@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<meta name="description" content="Киноман- мир фильмов">
+	<meta name="keywords" content="фильмы, фильмы онлайн, hd" />
+	<link rel="stylesheet" type="text/css" href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\css\style-film papka.css">
+</head>
+<body>
+	
+	<div class="main">
+		
+		<div class="header">
+			<div class="logo">
+				<div class="logo_text">
+					<h1><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\index.html">Киноман</a></h1>
+					<h2>Кино-мир фильмов</h2>
+				</div>
+			</div>
+			<div class="menubar">
+				<h3 align="center">
+				<ul class="menu">
+					<li><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\index.html">Главная</a></li>
+					<li class="selected"><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\film.html">Фильмы</a></li>
+					<li><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\serial.html">Сериалы</a></li>
+					<li><a href="#">мультфильмы</a></li>
+					<li><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\tv.html">тв программы</a></li>
+					<li><a href="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\game.html">видеоблоки</a></li>
+				</ul>	</h3><br><br><br><br>
+<p>
+<img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\img\image4.jpg" alt="Чемпион" height="283px" width="210px" align="left">
+&emsp;&emsp;Название: Четыре льва<br>
+&emsp;&emsp;Возрастной рейтинг: 18+<br>
+&emsp;&emsp;Страна: Германия, Великобритания<br>
+&emsp;&emsp;Год: 2010<br>
+&emsp;&emsp;Жанр: ужасы, драма, детектив<br>
+&emsp;&emsp;Режиссёры: Кристофер Смит<br>
+&emsp;&emsp;Актёры: Шон Бин, Эдди Редмейн, Кэрис Ван Хутен, Дэвид Уорнер,
+<br> &emsp;&emsp;Кимберли Никсон, Тим МакИннерни, Энди Нимэн, Джон Линч,
+<br> &emsp;&emsp;Джонни Хэррис, Дэвид Мастерсон			
+<br><br><br><br><br><br><br><br><br><br><br><p>Кинолента «Четыре льва» повествует о четырех шахидах, проживающих на территории Великобритании. Каждый из них одержим мечтой стать знаменитым и отомстить за то, что другие не
+ признают их интересы. Они готовы произвести любой теракт, только вот не знают, с чего начать. Умирать ведь не очень хочется… Главные герои картины «Четыре льва» подумывают, а не взорвать ли им Интернет…<br>
+</p><br><br>
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/avr23p1xbis" frameborder="0" allowfullscreen></iframe><br><br>
+ 
+ <img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\film kod\photo\4lyva1.jpg" height="100px" width="150px" >
+&emsp;&emsp;<img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\film kod\photo\4lyva2.jpg" height="100px" width="150px" >
+&emsp;&emsp;<img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\film kod\photo\4lyva3.jpg" height="100px" width="150px" >
+&emsp;&emsp;<img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\film kod\photo\4lyva4.jpg" height="100px" width="150px" >
+&emsp;&emsp;<img src="D:\ТУИТ\2-курс 2 семестр\web программирование практика\kinoman\assets\film kod\photo\4lyva5.jpg" height="100px" width="150px" >
+
+			</div>
+		</div>
+
+	</div>
+
+</body>
+</html>
